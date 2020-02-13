@@ -11,3 +11,4 @@ Based on : https://hub.github.com/ among many other tools
 - Unfollow unfollowers 
 - Create new repo
 - Delete repo
+- List Repos
